@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_AKCEPTUJ</name>
+   <name>div_Krcono tu zdjcia do Pasji Mela Gibsona _5f64a5</name>
    <tag></tag>
-   <elementGuidId>2405dddf-c46d-45f0-904e-fe323a6692c6</elementGuidId>
+   <elementGuidId>ee2f26e6-7729-47ec-afde-d6e889f3bf2b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='onetrust-accept-btn-handler']</value>
+         <value>//div[@id='gazeta_article_lead']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#onetrust-accept-btn-handler</value>
+         <value>#gazeta_article_lead</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,76 +21,90 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>onetrust-accept-btn-handler</value>
+      <value>gazeta_article_lead</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-loaded</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>AKCEPTUJĘ</value>
+      <value>Kręcono tu zdjęcia do &quot;Pasji&quot; Mela Gibsona czy &quot;Wonder Women&quot; Patty Jenkins - to jednak z przygodami brytyjskiego szpiega włoskie miasteczko Matera wiąże największe nadzieje. Włodarze szacują, że wpływy z turystyki sięgną 12 mln euro.</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
+      <value>id(&quot;gazeta_article_lead&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='onetrust-accept-btn-handler']</value>
+      <value>//div[@id='gazeta_article_lead']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='onetrust-button-group']/div/button</value>
+      <value>//section[@id='article_wrapper']/div[4]/div[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista Zaufanych Partnerów'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posłuchaj artykułu'])[1]/following::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My oraz nasi Zaufani Partnerzy możemy przetwarzać dane osobowe w następujących celach:'])[1]/following::button[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ua'])[1]/following::div[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='USTAWIENIA ZAAWANSOWANE'])[1]/preceding::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otwórz galerię'])[1]/preceding::div[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onetrust-accept-btn-handler', '&quot;', ')')])[1]/preceding::button[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na Gazeta.pl'])[1]/preceding::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kręcono tu zdjęcia do &quot;Pasji&quot; Mela Gibsona czy &quot;Wonder Women&quot; Patty Jenkins - to jednak z przygodami brytyjskiego szpiega włoskie miasteczko Matera wiąże największe nadzieje. Włodarze szacują, że wpływy z turystyki sięgną 12 mln euro.']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/div/div/button</value>
+      <value>//section/div[4]/div[2]</value>
    </webElementXpaths>
 </WebElementEntity>

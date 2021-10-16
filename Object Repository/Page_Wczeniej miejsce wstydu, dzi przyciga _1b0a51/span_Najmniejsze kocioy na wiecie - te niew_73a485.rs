@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_AKCEPTUJ</name>
+   <name>span_Najmniejsze kocioy na wiecie - te niew_73a485</name>
    <tag></tag>
-   <elementGuidId>2405dddf-c46d-45f0-904e-fe323a6692c6</elementGuidId>
+   <elementGuidId>8e12f0de-49d7-4611-8608-cfbf533afb2f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='onetrust-accept-btn-handler']</value>
+         <value>//div[@id='recommendations_content3']/section/ul/li[2]/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#onetrust-accept-btn-handler</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,76 +21,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>onetrust-accept-btn-handler</value>
+      <value>related_article_title</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>AKCEPTUJĘ</value>
+      <value>Najmniejsze kościoły na świecie - te niewielkie świątynie warto zobaczyć</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
+      <value>id(&quot;recommendations_content3&quot;)/section[@class=&quot;related_articles is-forYou lazy_load&quot;]/ul[@class=&quot;related_articles_list&quot;]/li[@class=&quot;related_article&quot;]/a[@class=&quot;related_article_link&quot;]/span[@class=&quot;related_article_title&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='onetrust-accept-btn-handler']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='onetrust-button-group']/div/button</value>
+      <value>//div[@id='recommendations_content3']/section/ul/li[2]/a/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista Zaufanych Partnerów'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do kiedy ważny jest bon turystyczny? Gdzie można go wykorzystać, sprawdź listę obiektów'])[2]/following::span[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My oraz nasi Zaufani Partnerzy możemy przetwarzać dane osobowe w następujących celach:'])[1]/following::button[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Szwecja'])[1]/following::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='USTAWIENIA ZAAWANSOWANE'])[1]/preceding::button[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onetrust-accept-btn-handler', '&quot;', ')')])[1]/preceding::button[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wakacje w listopadzie: dokąd pojechać, by wygrzać się w słońcu i nieco pozwiedzać?'])[3]/preceding::span[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/div/div/button</value>
+      <value>//div[3]/section/ul/li[2]/a/span</value>
    </webElementXpaths>
 </WebElementEntity>
